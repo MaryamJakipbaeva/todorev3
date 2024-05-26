@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#taskInput {
+  flex: 1;
+}
+
+.list-group-item {
+  margin-top: 5px;
+}

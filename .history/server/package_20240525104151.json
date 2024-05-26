@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description
+"scripts": {
+  "start": "node index.js",
+  "devStart": "nodemon index.js"
+}

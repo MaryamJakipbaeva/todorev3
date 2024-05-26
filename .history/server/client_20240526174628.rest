@@ -1,0 +1,11 @@
+### Get all tasks
+GET http://localhost:3001/tasks
+
+### Add a new task
+POST http://localhost:3001/tasks
+Content-Type: application/json
+
+{
+    "description": "New task from REST client"
+}
+curl -X DELETE http://localhost:3001/delete/1
